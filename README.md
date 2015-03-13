@@ -1,0 +1,1 @@
+# jni_sample_with_android_studio
